@@ -17,3 +17,4 @@ urllib3
 snowflake-connector-python
 cffi
 psycopg2-binary
+pandas
